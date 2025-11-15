@@ -47,7 +47,9 @@ Improving the performance of applications by caching frequently accessed data us
 - Collaboration with **ProDev Frontend Learners** was equally important, as they needed to interact with the backend APIs I developed. Regular communication helped ensure smooth integration of the frontend and backend components.
 
 ## Conclusion
-This project represents the culmination of my learning in the **ProDev Backend Engineering** program. Through this repository, I not only document my progress but also aim to contribute to the wider backend development community by sharing knowledge and insights.
+This project represents the culmination of my learning in the **ProDev Backend Engineering** program. Through this repository, I not only document my progress but also aim to contribute to the wider backend development 
+
+community by sharing knowledge and insights.
 
 Feel free to explore the repository and contribute your thoughts!
 
