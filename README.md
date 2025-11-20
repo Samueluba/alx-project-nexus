@@ -1,7 +1,3 @@
-Absolutely — here is a **clean, perfectly structured, strictly valid Markdown README** with **proper heading levels, bullet points, and spacing**.
-No mixed symbols, no spacing issues, no malformed formatting — fully ready for GitHub.
-
----
 
 # 🛡️ SecureAI — Expense Tracking & Fraud Detection Platform
 
@@ -300,14 +296,3 @@ SecureAI mirrors industry-grade FinTech platforms:
 * Savings goal automation
 * Mobile app (Flutter/React Native)
 
----
-
-If you want, I can also generate:
-
-✅ A complete folder structure
-✅ Docker Compose file
-✅ ERD diagram
-✅ GraphQL schema
-✅ API spec in Swagger format
-
-Just tell me!
